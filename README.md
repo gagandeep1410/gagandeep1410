@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @gagandeep1410
-- 👀 I’m interested in Python development.
-- 🌱 I’m currently learning Python and Django
 - 📫 How to reach me @ gagandeepsingh1410@gmail.com
 
 <!---
